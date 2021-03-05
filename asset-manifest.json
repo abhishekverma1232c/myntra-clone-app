@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/myntra-clone-app/static/css/main.f522e9ec.chunk.css",
+    "main.js": "/myntra-clone-app/static/js/main.825d7441.chunk.js",
+    "main.js.map": "/myntra-clone-app/static/js/main.825d7441.chunk.js.map",
+    "runtime-main.js": "/myntra-clone-app/static/js/runtime-main.0d8aac3e.js",
+    "runtime-main.js.map": "/myntra-clone-app/static/js/runtime-main.0d8aac3e.js.map",
+    "static/js/2.64490639.chunk.js": "/myntra-clone-app/static/js/2.64490639.chunk.js",
+    "static/js/2.64490639.chunk.js.map": "/myntra-clone-app/static/js/2.64490639.chunk.js.map",
+    "index.html": "/myntra-clone-app/index.html",
+    "static/css/main.f522e9ec.chunk.css.map": "/myntra-clone-app/static/css/main.f522e9ec.chunk.css.map",
+    "static/js/2.64490639.chunk.js.LICENSE.txt": "/myntra-clone-app/static/js/2.64490639.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d8aac3e.js",
+    "static/js/2.64490639.chunk.js",
+    "static/css/main.f522e9ec.chunk.css",
+    "static/js/main.825d7441.chunk.js"
+  ]
+}
